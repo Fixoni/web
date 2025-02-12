@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "Name": "The Witcher 3",
+    "Firm": "CD Projekt",
+    "Type": "RPG",
+    "Price": 29.99
+  },
+  {
+    "Id": 2,
+    "Name": "Cyberpunk 2077",
+    "Firm": "CD Projekt",
+    "Type": "RPG",
+    "Price": 59.99
+  },
+  {
+    "Id": 3,
+    "Name": "God of War",
+    "Firm": "Santa Monica Studio",
+    "Type": "Action",
+    "Price": 49.99
+  },
+  {
+    "Id": 5,
+    "Name": "Elden Ring",
+    "Firm": "FromSoftware",
+    "Type": "RPG",
+    "Price": 59.99
+  },
+  {
+    "Id": 6,
+    "Name": "Hades",
+    "Firm": "Supergiant Games",
+    "Type": "Rogue-like",
+    "Price": 24.99
+  },
+  {
+    "Id": 7,
+    "Name": "Horizon Zero Dawn",
+    "Firm": "Guerrilla Games",
+    "Type": "Action",
+    "Price": 19.99
+  },
+  {
+    "Id": 8,
+    "Name": "The Last of Us Part II",
+    "Firm": "Naughty Dog",
+    "Type": "Action-Adventure",
+    "Price": 39.99
+  },
+  {
+    "Id": 9,
+    "Name": "Halo Infinite",
+    "Firm": "343 Industries",
+    "Type": "Shooter",
+    "Price": 49.99
+  },
+  {
+    "Id": 10,
+    "Name": "Minecraft",
+    "Firm": "Mojang",
+    "Type": "Sandbox",
+    "Price": 26.95
+  }
+]

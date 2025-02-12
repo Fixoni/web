@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cw7
+build_property.RootNamespace = cw7
+build_property.ProjectDir = C:\Users\Egzamin\Desktop\cw7\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Egzamin\Desktop\cw7
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/AddGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/AddMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/DeleteGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/DeleteMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/EditGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdhbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/EditMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE1vdmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/SimpleForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltcGxlRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Egzamin/Desktop/cw7/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
