@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "ZZ3O53/4dP0Ww+I4/ghXLTk5fBoX8hvH2ZANxH2HuWo=",
+  "Source": "cw5",
+  "BasePath": "_content/cw5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cw5\\wwwroot",
+      "Source": "cw5",
+      "ContentRoot": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\",
+      "BasePath": "_content/cw5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\index.css",
+      "SourceId": "cw5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\",
+      "BasePath": "_content/cw5",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\index.html",
+      "SourceId": "cw5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\",
+      "BasePath": "_content/cw5",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\index.js",
+      "SourceId": "cw5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Egzamin\\Desktop\\cw5\\wwwroot\\",
+      "BasePath": "_content/cw5",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    }
+  ]
+}
